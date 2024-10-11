@@ -1,48 +1,21 @@
+
 body {
-color: rgb(255, 3, 3);
-background-color: aqua;
-font-family: fantasy;
-margin-bottom: 100px;
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+  
 
-    
-        border: solid 2px white;
 
-        
-            border: solid 2px rgb(42, 122, 228);
-        
-            
-                border-bottom: solid 2px rgb(42, 122, 228);
-            
-                
-                    color: white;
-                    background: black;
-                    margin: 0px;
-                
-                    
-                        border-bottom: solid 2px rgb(42, 122, 228);
-                        padding: 20px;
-                        
-                            border-bottom: solid 2px rgb(42, 122, 228);
-                            padding: 20px;
-                            font-size: 32px;
-                            
-                                border-bottom: solid 2px rgb(42, 122, 228);
-                                padding: 20px;
-                                font-size: 32px;
-                                color: rgb(42, 122, 228);
-                            
-                                
-                            
-                        
-                    
-                
-        
-
-    }
-    
 
 
 
